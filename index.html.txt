@@ -1,9 +1,13 @@
 <<<<<<< HEAD
 <html>
 	<body>
-	hello world!!!!!!!!!!!!!!!!!!!!
+		
+	hello world!
 	jiyoung
 	infiniq
+	<ul>
+		<li> branch</li>
+	<ul>
 	</body>
 </html>
 
