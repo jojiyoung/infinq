@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 <html>
 	<body>
 	hello world!
 	</body>
 </html>
+=======
+>>>>>>> parent of 6d5d196... html,body 태그추가
