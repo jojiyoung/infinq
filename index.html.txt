@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 <html>
 	<body>
-	hello world!
+	hello world!!!!!!!!!!!!!!!!!!!!
+	jiyoung
 	</body>
 </html>
-=======
->>>>>>> parent of 6d5d196... html,body 태그추가
+
